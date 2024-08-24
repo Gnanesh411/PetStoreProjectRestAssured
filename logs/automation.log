@@ -1,0 +1,46 @@
+19:05:01.554 [main] INFO  api.test.UserTests - *****Creating User*******
+19:05:06.524 [main] INFO  api.test.UserTests - *****Created User*******
+19:05:06.541 [main] INFO  api.test.UserTests - *****Reading UserInfo*******
+19:05:08.281 [main] INFO  api.test.UserTests - ***** User info is displayed *******
+19:05:08.286 [main] INFO  api.test.UserTests - *****Updating User*******
+19:05:10.539 [main] INFO  api.test.UserTests - *****User is Updated*******
+19:05:13.404 [main] INFO  api.test.UserTests - *****Deleing User*******
+19:05:15.334 [main] INFO  api.test.UserTests - *****User Deleted*******
+19:08:21.727 [main] DEBUG api.test.UserTests - debugging.......
+19:08:21.750 [main] INFO  api.test.UserTests - *****Creating User*******
+19:08:26.572 [main] INFO  api.test.UserTests - *****Created User*******
+19:08:26.590 [main] INFO  api.test.UserTests - *****Reading UserInfo*******
+19:08:28.303 [main] INFO  api.test.UserTests - ***** User info is displayed *******
+19:08:28.311 [main] INFO  api.test.UserTests - *****Updating User*******
+19:08:30.314 [main] INFO  api.test.UserTests - *****User is Updated*******
+19:08:32.617 [main] INFO  api.test.UserTests - *****Deleing User*******
+19:08:34.552 [main] INFO  api.test.UserTests - *****User Deleted*******
+20:53:23.902 [main] DEBUG api.test.UserTests2 - debugging.......
+20:53:23.925 [main] INFO  api.test.UserTests2 - *****Creating User*******
+20:53:28.779 [main] INFO  api.test.UserTests2 - *****Created User*******
+20:53:28.794 [main] INFO  api.test.UserTests2 - *****Reading UserInfo*******
+20:53:30.850 [main] INFO  api.test.UserTests2 - ***** User info is displayed *******
+20:53:30.863 [main] INFO  api.test.UserTests2 - *****Updating User*******
+20:53:33.301 [main] INFO  api.test.UserTests2 - *****User is Updated*******
+20:53:35.556 [main] INFO  api.test.UserTests2 - *****Deleing User*******
+20:53:38.111 [main] INFO  api.test.UserTests2 - *****User Deleted*******
+21:03:08.133 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\gnane\eclipse-workspace\PetStoreRestAssuredFrameWork\testng.xml"
+21:03:08.950 [main] DEBUG api.test.UserTests2 - debugging.......
+21:03:08.971 [main] INFO  api.test.UserTests2 - *****Creating User*******
+21:03:13.435 [main] INFO  api.test.UserTests2 - *****Created User*******
+21:03:13.455 [main] INFO  api.test.UserTests2 - *****Reading UserInfo*******
+21:03:16.282 [main] INFO  api.test.UserTests2 - ***** User info is displayed *******
+21:03:16.293 [main] INFO  api.test.UserTests2 - *****Updating User*******
+21:03:18.554 [main] INFO  api.test.UserTests2 - *****User is Updated*******
+21:03:20.675 [main] INFO  api.test.UserTests2 - *****Deleing User*******
+21:03:23.348 [main] INFO  api.test.UserTests2 - *****User Deleted*******
+21:16:22.425 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\gnane\eclipse-workspace\PetStoreRestAssuredFrameWork\testng.xml"
+21:16:23.152 [main] DEBUG api.test.UserTests2 - debugging.......
+21:16:23.180 [main] INFO  api.test.UserTests2 - *****Creating User*******
+21:16:27.773 [main] INFO  api.test.UserTests2 - *****Created User*******
+21:16:27.787 [main] INFO  api.test.UserTests2 - *****Reading UserInfo*******
+21:16:30.541 [main] INFO  api.test.UserTests2 - ***** User info is displayed *******
+21:16:30.548 [main] INFO  api.test.UserTests2 - *****Updating User*******
+21:16:32.901 [main] INFO  api.test.UserTests2 - *****User is Updated*******
+21:16:34.991 [main] INFO  api.test.UserTests2 - *****Deleing User*******
+21:16:37.190 [main] INFO  api.test.UserTests2 - *****User Deleted*******
